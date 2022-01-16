@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+
+    background-color: rgb(178, 211, 211);
+}
+.main {
+    height: 90vh;
+
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: space-evenly;
+}
+.textAndInput {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    height: min-content;
+}
+.tittle {
+    margin-bottom: 2em;
+
+    font-size: 35px;
+    font-weight: bold;
+}
+.inputNumber {
+    height: 20px;
+
+    border-radius: 15px;
+}
+.buttons{
+    display: flex;
+   
+    flex-direction: column;
+    justify-content: center;
+
+    height: min-content;
+}
+.buttonConversor {
+    height: 40px;
+
+    margin-bottom: 2em;
+    margin-top: 3em;
+    
+    background-color: rgb(23, 226, 23);
+    border-radius: 15px;
+
+    font-weight: bolder;
+}
+.buttonChange {
+    height: 40px;
+
+    background-color: rgb(23, 226, 23);
+    border-radius: 15px;
+
+    font-weight: bolder;
+}
+.container{
+    display: flex;
+
+    justify-content: center;
+}
+.message{
+    font-size: 30px;
+    font-weight: bold;
+}
+@media (max-width: 530px) {
+    .main{
+        height: 80vh;
+        flex-direction: column;
+    }
+}
+@media (max-width: 350px) {
+    .message{
+        font-size: 25px;
+    }
+}
+
