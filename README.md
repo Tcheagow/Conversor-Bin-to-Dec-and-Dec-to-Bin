@@ -7,6 +7,10 @@
 <li> CSS</li>
 <li> JavaScript</li>
 <br>
+<h2> Link do site:</h2>
+<a> https://tcheagow.github.io/Conversor-Bin-to-Dec-and-Dec-to-Bin/ </a>
+<br>
+<br>
 <h2> © Feito por Tcheagow </h2>
 <br>
 <br>
@@ -21,4 +25,10 @@
 <li> CSS</li>
 <li> JavaScript</li>
 <br>
+<h2> Website link:</h2>
+<a> https://tcheagow.github.io/Conversor-Bin-to-Dec-and-Dec-to-Bin/ </a>
+<br>
+<br>
 <h2> © By Tcheagow </h2>
+<br>
+<br>
